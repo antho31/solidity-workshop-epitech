@@ -1,5 +1,5 @@
 # Workshop Epitech : Use, code & deploy decentralized apps
-[Anthony Gourraud](https://anthonyg.eth.limo/) - [anthonyg.eth@ethereum.email](anthonyg.eth@ethereum.email)
+[Anthony Gourraud](https://anthonyg.eth.limo/) - [anthonyg.eth@ethereum.email](mailto:anthonyg.eth@ethereum.email)
 
 
 Topics : 
